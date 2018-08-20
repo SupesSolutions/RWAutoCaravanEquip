@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RWAutoSell.AEType>Type actuel: {0}</RWAutoSell.AEType>
+  <RWAutoSell.AETGlob>Règle globale</RWAutoSell.AETGlob>
+  <RWAutoSell.AETPer>Par personne</RWAutoSell.AETPer>
+  <RWAutoSell.MaxWeight>Poids maximum</RWAutoSell.MaxWeight>
+  <RWAutoSell.Days>Journées</RWAutoSell.Days>
+  <RWAutoSell.RouteDays>Utiliser les jours de route</RWAutoSell.RouteDays>
+  <RWAutoSell.ProcessLast>Traiter le dernier</RWAutoSell.ProcessLast>
+  <!-- Root Names -->
+  <RWAutoSell.Caravan>Caravane</RWAutoSell.Caravan>
+  <RWAutoSell.App2Per>Appliquer au personnel</RWAutoSell.App2Per>
+  <!-- Main Tab -->
+  <RWAutoSell.TabCaravanEquip>Caravane équiper</RWAutoSell.TabCaravanEquip>
+  <!-- Caravan Transfer -->
+  <RWAutoSell.CaravanEquipReportTitle>Rapport d'équipement</RWAutoSell.CaravanEquipReportTitle>
+
+  <RWAutoSell.AEComformFreeForm>Forme libre</RWAutoSell.AEComformFreeForm>
+  <RWAutoSell.AEComformGlobal>Définir les éléments globaux/Définir le personnel</RWAutoSell.AEComformGlobal>
+  <RWAutoSell.AEComformPer>Définir des objets de personne spécifique</RWAutoSell.AEComformPer>
+  <RWAutoSell.AEComformLate>Définir les éléments globaux tardifs</RWAutoSell.AEComformLate>
+
+  <RWAutoSell.AEComform>Actuellement conforme: {0}</RWAutoSell.AEComform>
+  <RWAutoSell.AENotComform>N'est pas conforme: {0}</RWAutoSell.AENotComform>
+  <RWAutoSell.AEConformType>Conforme au type?</RWAutoSell.AEConformType>
+</LanguageData>
