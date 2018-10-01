@@ -23,4 +23,11 @@
   <RWAutoSell.AEComform>Actuellement conforme: {0}</RWAutoSell.AEComform>
   <RWAutoSell.AENotComform>N'est pas conforme: {0}</RWAutoSell.AENotComform>
   <RWAutoSell.AEConformType>Conforme au type?</RWAutoSell.AEConformType>
+
+  <!-- Filters -->
+  <RWAutoSell.FilterGearWeapon>Arme équipée</RWAutoSell.FilterGearWeapon>
+
+  <!-- Filter Widgets -->
+  <RWAutoSell.FGWeaponMelee>Montrer seulement en mêlée</RWAutoSell.FGWeaponMelee>
+  <RWAutoSell.FGWeaponRanged> Montrer à distance seulement</RWAutoSell.FGWeaponRanged>
 </LanguageData>

@@ -25,4 +25,10 @@
   <RWAutoSell.AENotComform>Stimmt nicht überein: {0}</RWAutoSell.AENotComform>
   <RWAutoSell.AEConformType>Anpassung an Typ?</RWAutoSell.AEConformType>
 
+  <!-- Filters -->
+  <RWAutoSell.FilterGearWeapon>Ausgerüstete Waffe</RWAutoSell.FilterGearWeapon>
+
+  <!-- Filter Widgets -->
+  <RWAutoSell.FGWeaponMelee>Nur Nahkampf anzeigen</RWAutoSell.FGWeaponMelee>
+  <RWAutoSell.FGWeaponRanged>Nur Reichweite anzeigen</RWAutoSell.FGWeaponRanged>
 </LanguageData>
