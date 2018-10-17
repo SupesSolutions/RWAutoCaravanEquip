@@ -26,6 +26,7 @@
 
   <!-- Filters -->
   <RWAutoSell.FilterGearWeapon>Arme équipée</RWAutoSell.FilterGearWeapon>
+  <RWAutoSell.FilterGearArmour>Armure Équipée</RWAutoSell.FilterGearArmour>
 
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Montrer seulement en mêlée</RWAutoSell.FGWeaponMelee>

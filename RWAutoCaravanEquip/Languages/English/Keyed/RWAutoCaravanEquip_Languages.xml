@@ -26,6 +26,7 @@
   
   <!-- Filters -->
   <RWAutoSell.FilterGearWeapon>Equipped Weapon</RWAutoSell.FilterGearWeapon>
+  <RWAutoSell.FilterGearArmour>Equipped Armour</RWAutoSell.FilterGearArmour>
   
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Show Melee Only</RWAutoSell.FGWeaponMelee>

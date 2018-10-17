@@ -2,6 +2,6 @@
   <name>Auto Caravan Equip (Autoseller Extension)</name>
   <author>Supes</author>
   <url></url>
-  <targetVersion>0.19.1998</targetVersion>
+  <targetVersion>1.0.2059</targetVersion>
   <description>Adds the ability to Select colonists or Equip items using a set of editable rules when forming a caravan, Requires AutoSeller2</description>
 </ModMetaData>

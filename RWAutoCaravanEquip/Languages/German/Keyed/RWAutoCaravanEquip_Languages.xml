@@ -27,6 +27,7 @@
 
   <!-- Filters -->
   <RWAutoSell.FilterGearWeapon>Ausgerüstete Waffe</RWAutoSell.FilterGearWeapon>
+  <RWAutoSell.FilterGearArmour>Ausgerüstete Rüstung</RWAutoSell.FilterGearArmour>
 
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Nur Nahkampf anzeigen</RWAutoSell.FGWeaponMelee>
