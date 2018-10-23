@@ -32,4 +32,16 @@
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Nur Nahkampf anzeigen</RWAutoSell.FGWeaponMelee>
   <RWAutoSell.FGWeaponRanged>Nur Reichweite anzeigen</RWAutoSell.FGWeaponRanged>
+
+  <!-- Preset -->
+  <RWAEquip.PresetSelect>Wählen Sie Voreinstellung</RWAEquip.PresetSelect>
+  <RWAEquip.Presets>Voreinstellungen</RWAEquip.Presets>
+  <RWAEquip.Active>Aktiv</RWAEquip.Active>
+  <RWAEquip.InActive>Inaktiv</RWAEquip.InActive>
+  <RWAEquip.ShowOnForm>Wählen Sie Preset auf Form Caravan</RWAEquip.ShowOnForm>
+  <RWAEquip.Select>Wählen</RWAEquip.Select>
+  <RWAEquip.Prefix>Präfix</RWAEquip.Prefix>
+  <RWAEquip.Contains>Enthält</RWAEquip.Contains>
+  <RWAEquip.Default>Standard Neu zu Inaktiv</RWAEquip.Default>
+  <RWAEquip.Activate>Aktivieren</RWAEquip.Activate>
 </LanguageData>

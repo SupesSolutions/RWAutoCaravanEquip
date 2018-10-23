@@ -31,4 +31,16 @@
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Montrer seulement en mêlée</RWAutoSell.FGWeaponMelee>
   <RWAutoSell.FGWeaponRanged> Montrer à distance seulement</RWAutoSell.FGWeaponRanged>
+
+  <!-- Preset -->
+  <RWAEquip.PresetSelect>Choisir un préréglage</RWAEquip.PresetSelect>
+  <RWAEquip.Presets>Contrôle des presets</RWAEquip.Presets>
+  <RWAEquip.Active>actif</RWAEquip.Active>
+  <RWAEquip.InActive>Inactif</RWAEquip.InActive>
+  <RWAEquip.ShowOnForm>Sélectionner un préréglage sur le formulaire Caravan</RWAEquip.ShowOnForm>
+  <RWAEquip.Select>Sélectionner</RWAEquip.Select>
+  <RWAEquip.Prefix>Préfixe</RWAEquip.Prefix>
+  <RWAEquip.Contains>Contient</RWAEquip.Contains>
+  <RWAEquip.Default>Nouveau par défaut sur inactif</RWAEquip.Default>
+  <RWAEquip.Activate>Activer</RWAEquip.Activate>
 </LanguageData>

@@ -31,4 +31,16 @@
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Show Melee Only</RWAutoSell.FGWeaponMelee>
   <RWAutoSell.FGWeaponRanged>Show Ranged Only</RWAutoSell.FGWeaponRanged>
+
+  <!-- Preset -->
+  <RWAEquip.PresetSelect>Choose Preset</RWAEquip.PresetSelect>
+  <RWAEquip.Presets>Presets Control</RWAEquip.Presets>
+  <RWAEquip.Active>Active</RWAEquip.Active>
+  <RWAEquip.InActive>Inactive</RWAEquip.InActive>
+  <RWAEquip.ShowOnForm>Select Preset on Form Caravan</RWAEquip.ShowOnForm>
+  <RWAEquip.Select>Select</RWAEquip.Select>
+  <RWAEquip.Prefix>Prefix</RWAEquip.Prefix>
+  <RWAEquip.Contains>Contains</RWAEquip.Contains>
+  <RWAEquip.Default>Default New to Inactive</RWAEquip.Default>
+  <RWAEquip.Activate>Activate</RWAEquip.Activate>
 </LanguageData>
