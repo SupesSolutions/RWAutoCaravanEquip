@@ -34,6 +34,7 @@
   <RWAutoSell.FGWeaponRanged>Nur Reichweite anzeigen</RWAutoSell.FGWeaponRanged>
 
   <!-- Preset -->
+  <RWAEquip.NewPreset>Neu</RWAEquip.NewPreset>
   <RWAEquip.PresetSelect>Wählen Sie Voreinstellung</RWAEquip.PresetSelect>
   <RWAEquip.Presets>Voreinstellungen</RWAEquip.Presets>
   <RWAEquip.Active>Aktiv</RWAEquip.Active>
@@ -44,4 +45,28 @@
   <RWAEquip.Contains>Enthält</RWAEquip.Contains>
   <RWAEquip.Default>Standard Neu zu Inaktiv</RWAEquip.Default>
   <RWAEquip.Activate>Aktivieren</RWAEquip.Activate>
+
+  <!-- Wizard -->
+  <RWAEquip.WizCaravanComp>Fügen Sie der Caravan-Komposition hinzu</RWAEquip.WizCaravanComp>
+  <RWAEquip.WizCompRace>Bestehend aus bestimmten Tierarten.</RWAEquip.WizCompRace>
+  <RWAEquip.WizCompQuantity>Füge bis zu vielen hinzu.</RWAEquip.WizCompQuantity>
+  <RWAEquip.WizCompSelected>Bestehend aus einem bestimmten Volk oder Tieren.</RWAEquip.WizCompSelected>
+
+  <RWAEquip.WizItems>Laden Sie bestimmte Artikel in Ihren Wohnwagen</RWAEquip.WizItems>
+  <RWAEquip.WizItemPer>Für jedes Mitglied der Karawane</RWAEquip.WizItemPer>
+  <RWAEquip.WizItemsHuman>diejenigen, die Humanoide sind</RWAEquip.WizItemsHuman>
+  <RWAEquip.WizItemsRoute>Anhängen eines Betrags basierend auf der Länge der ausgewählten Route (nur Lebensmittel)</RWAEquip.WizItemsRoute>
+  <RWAEquip.WizItemsWeight>Fügen Sie diesem Gewicht Artikel hinzu</RWAEquip.WizItemsWeight>
+
+  <RWAEquip.WizItemsRace>für eine bestimmte Tierart</RWAEquip.WizItemsRace>
+  <RWAEquip.WizItemsSelected>für die, die ich angegeben habe</RWAEquip.WizItemsSelected>
+
+  <RWAEquip.WizItemCaravan>Für jeden Wohnwagen</RWAEquip.WizItemCaravan>
+
+  <RWAEquip.Wizard>Assistent</RWAEquip.Wizard>
+
+  <RWAEquip.WizCaravanCompLab>Caravan-Komposition - </RWAEquip.WizCaravanCompLab>
+  <RWAEquip.WizItemsPerLab>Artikel pro Person - </RWAEquip.WizItemsPerLab>
+  <RWAEquip.WizItemsCaravanLab>Caravan-Artikel - </RWAEquip.WizItemsCaravanLab>
+  <RWAEquip.WizPerLab> jedes {1}</RWAEquip.WizPerLab>
 </LanguageData>

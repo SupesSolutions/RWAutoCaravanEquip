@@ -33,6 +33,7 @@
   <RWAutoSell.FGWeaponRanged> Montrer à distance seulement</RWAutoSell.FGWeaponRanged>
 
   <!-- Preset -->
+  <RWAEquip.NewPreset>Nouveau</RWAEquip.NewPreset>
   <RWAEquip.PresetSelect>Choisir un préréglage</RWAEquip.PresetSelect>
   <RWAEquip.Presets>Contrôle des presets</RWAEquip.Presets>
   <RWAEquip.Active>actif</RWAEquip.Active>
@@ -43,4 +44,28 @@
   <RWAEquip.Contains>Contient</RWAEquip.Contains>
   <RWAEquip.Default>Nouveau par défaut sur inactif</RWAEquip.Default>
   <RWAEquip.Activate>Activer</RWAEquip.Activate>
+
+  <!-- Wizard -->
+  <RWAEquip.WizCaravanComp>Ajouter à la composition de la caravane</RWAEquip.WizCaravanComp>
+  <RWAEquip.WizCompRace>Composé d'un type d'animal.</RWAEquip.WizCompRace>
+  <RWAEquip.WizCompQuantity>Ajoutez jusqu'à ce nombre.</RWAEquip.WizCompQuantity>
+  <RWAEquip.WizCompSelected>Composé d'un peuple ou d'animaux spécifique.</RWAEquip.WizCompSelected>
+
+  <RWAEquip.WizItems>Charger des objets spécifiques dans la caravane</RWAEquip.WizItems>
+  <RWAEquip.WizItemPer>Pour chaque membre de la caravane</RWAEquip.WizItemPer>
+  <RWAEquip.WizItemsHuman>qui sont humanoïdes</RWAEquip.WizItemsHuman>
+  <RWAEquip.WizItemsRoute>Ajouter une quantité en fonction de la longueur de l'itinéraire sélectionné (nourriture seulement)</RWAEquip.WizItemsRoute>
+  <RWAEquip.WizItemsWeight>Ajouter jusqu'à cette quantité d'éléments en poids</RWAEquip.WizItemsWeight>
+
+  <RWAEquip.WizItemsRace>pour un type d'animal spécifique</RWAEquip.WizItemsRace>
+  <RWAEquip.WizItemsSelected>pour ceux que j'ai spécifiés</RWAEquip.WizItemsSelected>
+
+  <RWAEquip.WizItemCaravan>Pour chaque caravane</RWAEquip.WizItemCaravan>
+
+  <RWAEquip.Wizard>Assistant</RWAEquip.Wizard>
+
+  <RWAEquip.WizCaravanCompLab>Composition de la caravane - </RWAEquip.WizCaravanCompLab>
+  <RWAEquip.WizItemsPerLab>Articles par personne - </RWAEquip.WizItemsPerLab>
+  <RWAEquip.WizItemsCaravanLab>Articles de caravane - </RWAEquip.WizItemsCaravanLab>
+  <RWAEquip.WizPerLab> chaque {1}</RWAEquip.WizPerLab>
 </LanguageData>

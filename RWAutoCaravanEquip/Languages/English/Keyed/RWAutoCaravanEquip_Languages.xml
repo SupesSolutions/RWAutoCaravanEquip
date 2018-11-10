@@ -9,7 +9,10 @@
   <RWAutoSell.ProcessLast>Process Last</RWAutoSell.ProcessLast>
   <!-- Root Names -->
   <RWAutoSell.Caravan>Caravan</RWAutoSell.Caravan>
-  <RWAutoSell.App2Per>Apply to Personnel</RWAutoSell.App2Per>  
+  <RWAutoSell.App2Per>Apply to Personnel</RWAutoSell.App2Per>
+
+  <RWAutoSell.CaravanNodeDesc>Filter what items will be on this caravan</RWAutoSell.CaravanNodeDesc>
+  <RWAutoSell.App2PerNodeDesc>Filter which colonists or animals this rule will apply to, and multiply modifiers by whom is returned</RWAutoSell.App2PerNodeDesc>
   <!-- Main Tab -->
   <RWAutoSell.TabCaravanEquip>Caravan Equip</RWAutoSell.TabCaravanEquip>
   <!-- Caravan Transfer -->
@@ -33,14 +36,44 @@
   <RWAutoSell.FGWeaponRanged>Show Ranged Only</RWAutoSell.FGWeaponRanged>
 
   <!-- Preset -->
+  <RWAEquip.NewPreset>New</RWAEquip.NewPreset>
   <RWAEquip.PresetSelect>Choose Preset</RWAEquip.PresetSelect>
   <RWAEquip.Presets>Presets Control</RWAEquip.Presets>
   <RWAEquip.Active>Active</RWAEquip.Active>
   <RWAEquip.InActive>Inactive</RWAEquip.InActive>
-  <RWAEquip.ShowOnForm>Select Preset on Form Caravan</RWAEquip.ShowOnForm>
+  
   <RWAEquip.Select>Select</RWAEquip.Select>
   <RWAEquip.Prefix>Prefix</RWAEquip.Prefix>
   <RWAEquip.Contains>Contains</RWAEquip.Contains>
   <RWAEquip.Default>Default New to Inactive</RWAEquip.Default>
   <RWAEquip.Activate>Activate</RWAEquip.Activate>
+  
+  <!-- Options -->
+  <RWAEquip.MapOptions>Equip Options</RWAEquip.MapOptions>
+  <RWAEquip.DoubleRouteDays>Double Route Days</RWAEquip.DoubleRouteDays>
+  <RWAEquip.ShowOnForm>Select Preset on Form Caravan</RWAEquip.ShowOnForm>
+  
+  <!-- Wizard -->
+  <RWAEquip.WizCaravanComp>Append to the Caravan Composition</RWAEquip.WizCaravanComp>
+  <RWAEquip.WizCompRace>Composed of a type of animal.</RWAEquip.WizCompRace>
+  <RWAEquip.WizCompQuantity>Append upto this many.</RWAEquip.WizCompQuantity>
+  <RWAEquip.WizCompSelected>Composed of a specific people or animals.</RWAEquip.WizCompSelected>
+
+  <RWAEquip.WizItems>Load specific items into caravan</RWAEquip.WizItems>
+  <RWAEquip.WizItemPer>For each member of the caravan</RWAEquip.WizItemPer>
+  <RWAEquip.WizItemsHuman>that are humanoid</RWAEquip.WizItemsHuman>  
+  <RWAEquip.WizItemsRoute>Append an amount based on the length of the route selected (Food only)</RWAEquip.WizItemsRoute>
+  <RWAEquip.WizItemsWeight>Append up to this amount of items in weight</RWAEquip.WizItemsWeight>
+
+  <RWAEquip.WizItemsRace>for a specific type of animal</RWAEquip.WizItemsRace>
+  <RWAEquip.WizItemsSelected>for those that I have specified</RWAEquip.WizItemsSelected>
+
+  <RWAEquip.WizItemCaravan>For each caravan</RWAEquip.WizItemCaravan>
+
+  <RWAEquip.Wizard>Wizard</RWAEquip.Wizard>
+
+  <RWAEquip.WizCaravanCompLab>Caravan Composition - </RWAEquip.WizCaravanCompLab>
+  <RWAEquip.WizItemsPerLab>Per Person Items - </RWAEquip.WizItemsPerLab>
+  <RWAEquip.WizItemsCaravanLab>Caravan Items - </RWAEquip.WizItemsCaravanLab>
+  <RWAEquip.WizPerLab> each {0}</RWAEquip.WizPerLab>
 </LanguageData>
