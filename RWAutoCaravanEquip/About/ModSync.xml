@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>ced4429c-85cd-44d5-972f-1c0c0971b8b3</ID>
   <ModName>Auto Caravan Equip (Autoseller Extension)</ModName>
-  <Version>1.0.0.4</Version>
+  <Version>1.0.0.5</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>SupesSolutions</Owner>
