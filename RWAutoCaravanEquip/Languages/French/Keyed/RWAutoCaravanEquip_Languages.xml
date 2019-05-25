@@ -27,11 +27,13 @@
   <!-- Filters -->
   <RWAutoSell.FilterGearWeapon>Arme équipée</RWAutoSell.FilterGearWeapon>
   <RWAutoSell.FilterGearArmour>Armure Équipée</RWAutoSell.FilterGearArmour>
+  <RWAutoSell.FilterDiet>Régime</RWAutoSell.FilterDiet>
 
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Montrer seulement en mêlée</RWAutoSell.FGWeaponMelee>
   <RWAutoSell.FGWeaponRanged> Montrer à distance seulement</RWAutoSell.FGWeaponRanged>
-
+  <RWAutoSell.FilterGrazerIs>Est brouteur</RWAutoSell.FilterGrazerIs>
+  
   <!-- Preset -->
   <RWAEquip.NewPreset>Nouveau</RWAEquip.NewPreset>
   <RWAEquip.PresetSelect>Choisir un préréglage</RWAEquip.PresetSelect>

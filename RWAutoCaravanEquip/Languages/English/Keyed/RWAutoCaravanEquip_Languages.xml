@@ -30,10 +30,12 @@
   <!-- Filters -->
   <RWAutoSell.FilterGearWeapon>Equipped Weapon</RWAutoSell.FilterGearWeapon>
   <RWAutoSell.FilterGearArmour>Equipped Armour</RWAutoSell.FilterGearArmour>
+  <RWAutoSell.FilterDiet>Diet</RWAutoSell.FilterDiet>
   
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Show Melee Only</RWAutoSell.FGWeaponMelee>
   <RWAutoSell.FGWeaponRanged>Show Ranged Only</RWAutoSell.FGWeaponRanged>
+  <RWAutoSell.FilterGrazerIs>Is Grazer</RWAutoSell.FilterGrazerIs>
 
   <!-- Preset -->
   <RWAEquip.NewPreset>New</RWAEquip.NewPreset>
@@ -76,4 +78,5 @@
   <RWAEquip.WizItemsPerLab>Per Person Items - </RWAEquip.WizItemsPerLab>
   <RWAEquip.WizItemsCaravanLab>Caravan Items - </RWAEquip.WizItemsCaravanLab>
   <RWAEquip.WizPerLab> each {0}</RWAEquip.WizPerLab>
+
 </LanguageData>
