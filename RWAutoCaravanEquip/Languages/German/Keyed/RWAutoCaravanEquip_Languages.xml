@@ -48,6 +48,9 @@
   <RWAEquip.Default>Standard Neu zu Inaktiv</RWAEquip.Default>
   <RWAEquip.Activate>Aktivieren</RWAEquip.Activate>
 
+  <RWAEquip.TopNest>Ketten: Von oben aktivieren</RWAEquip.TopNest>
+  <RWAEquip.FirstChain>Ketten: Aktiviere alle von Anfang an</RWAEquip.FirstChain>
+
   <!-- Wizard -->
   <RWAEquip.WizCaravanComp>Fügen Sie der Caravan-Komposition hinzu</RWAEquip.WizCaravanComp>
   <RWAEquip.WizCompRace>Bestehend aus bestimmten Tierarten.</RWAEquip.WizCompRace>

@@ -49,6 +49,9 @@
   <RWAEquip.Contains>Contains</RWAEquip.Contains>
   <RWAEquip.Default>Default New to Inactive</RWAEquip.Default>
   <RWAEquip.Activate>Activate</RWAEquip.Activate>
+
+  <RWAEquip.TopNest>Chains: Activate from top</RWAEquip.TopNest>
+  <RWAEquip.FirstChain>Chains: Activate all from first</RWAEquip.FirstChain>
   
   <!-- Options -->
   <RWAEquip.MapOptions>Equip Options</RWAEquip.MapOptions>
@@ -79,4 +82,5 @@
   <RWAEquip.WizItemsCaravanLab>Caravan Items - </RWAEquip.WizItemsCaravanLab>
   <RWAEquip.WizPerLab> each {0}</RWAEquip.WizPerLab>
 
+  
 </LanguageData>

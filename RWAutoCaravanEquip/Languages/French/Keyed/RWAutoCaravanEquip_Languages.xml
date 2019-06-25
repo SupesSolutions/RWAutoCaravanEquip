@@ -47,6 +47,9 @@
   <RWAEquip.Default>Nouveau par défaut sur inactif</RWAEquip.Default>
   <RWAEquip.Activate>Activer</RWAEquip.Activate>
 
+  <RWAEquip.TopNest>Chaînes: Activer à partir du haut</RWAEquip.TopNest>
+  <RWAEquip.FirstChain>Chaînes: Activer tout du premier</RWAEquip.FirstChain>
+
   <!-- Wizard -->
   <RWAEquip.WizCaravanComp>Ajouter à la composition de la caravane</RWAEquip.WizCaravanComp>
   <RWAEquip.WizCompRace>Composé d'un type d'animal.</RWAEquip.WizCompRace>
