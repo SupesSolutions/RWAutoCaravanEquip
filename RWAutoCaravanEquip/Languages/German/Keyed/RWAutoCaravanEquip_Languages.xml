@@ -29,7 +29,8 @@
   <RWAutoSell.FilterGearWeapon>Ausgerüstete Waffe</RWAutoSell.FilterGearWeapon>
   <RWAutoSell.FilterGearArmour>Ausgerüstete Rüstung</RWAutoSell.FilterGearArmour>
   <RWAutoSell.FilterDiet>Diät</RWAutoSell.FilterDiet>
-  
+  <RWAutoSell.FilterGearInventory>Kolonisteninventar</RWAutoSell.FilterGearInventory>
+
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Nur Nahkampf anzeigen</RWAutoSell.FGWeaponMelee>
   <RWAutoSell.FGWeaponRanged>Nur Reichweite anzeigen</RWAutoSell.FGWeaponRanged>

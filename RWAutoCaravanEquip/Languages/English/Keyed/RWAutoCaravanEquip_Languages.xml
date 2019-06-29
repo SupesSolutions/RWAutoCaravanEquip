@@ -31,6 +31,7 @@
   <RWAutoSell.FilterGearWeapon>Equipped Weapon</RWAutoSell.FilterGearWeapon>
   <RWAutoSell.FilterGearArmour>Equipped Armour</RWAutoSell.FilterGearArmour>
   <RWAutoSell.FilterDiet>Diet</RWAutoSell.FilterDiet>
+  <RWAutoSell.FilterGearInventory>Colonist Inventory</RWAutoSell.FilterGearInventory>
   
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Show Melee Only</RWAutoSell.FGWeaponMelee>

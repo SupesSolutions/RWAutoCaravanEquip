@@ -28,6 +28,7 @@
   <RWAutoSell.FilterGearWeapon>Arme équipée</RWAutoSell.FilterGearWeapon>
   <RWAutoSell.FilterGearArmour>Armure Équipée</RWAutoSell.FilterGearArmour>
   <RWAutoSell.FilterDiet>Régime</RWAutoSell.FilterDiet>
+  <RWAutoSell.FilterGearInventory>Inventaire Coloniste</RWAutoSell.FilterGearInventory>Inventar gehalten
 
   <!-- Filter Widgets -->
   <RWAutoSell.FGWeaponMelee>Montrer seulement en mêlée</RWAutoSell.FGWeaponMelee>
