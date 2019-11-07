@@ -7,6 +7,7 @@
   <RWAutoSell.Days>Journées</RWAutoSell.Days>
   <RWAutoSell.RouteDays>Utiliser les jours de route</RWAutoSell.RouteDays>
   <RWAutoSell.ProcessLast>Traiter le dernier</RWAutoSell.ProcessLast>
+  <RWAEquip.ApplyToPods>Appliquer aux pods</RWAEquip.ApplyToPods>
   <!-- Root Names -->
   <RWAutoSell.Caravan>Caravane</RWAutoSell.Caravan>
   <RWAutoSell.App2Per>Appliquer au personnel</RWAutoSell.App2Per>
@@ -51,6 +52,10 @@
   <RWAEquip.TopNest>Chaînes: Activer à partir du haut</RWAEquip.TopNest>
   <RWAEquip.FirstChain>Chaînes: Activer tout du premier</RWAEquip.FirstChain>
 
+  <RWAEquip.ActivateAll>Activer tout</RWAEquip.ActivateAll>
+  <RWAEquip.SuspendAll>Suspendre tout</RWAEquip.SuspendAll>
+  <RWAEquip.NoChange>Utiliser actuellement</RWAEquip.NoChange>
+  
   <!-- Wizard -->
   <RWAEquip.WizCaravanComp>Ajouter à la composition de la caravane</RWAEquip.WizCaravanComp>
   <RWAEquip.WizCompRace>Composé d'un type d'animal.</RWAEquip.WizCompRace>

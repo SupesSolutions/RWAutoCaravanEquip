@@ -24,8 +24,3 @@ How to install
 
 Unzip the contents and place them in your RimWorld/Mods folder.
 Activate the mod in the mod menu in the game.
-
-
-Future Plans
-
-Currently it Skips if it goes over Mass Capacity, but I plan to add that later so it restricts it to Mass capacity (like the trade rules do with the Allow Partial Trades option)

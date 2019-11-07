@@ -6,7 +6,8 @@
   <RWAutoSell.MaxWeight>Maximalgewicht</RWAutoSell.MaxWeight>
   <RWAutoSell.Days>Tage</RWAutoSell.Days>
   <RWAutoSell.RouteDays>Verwenden Sie Route Tage</RWAutoSell.RouteDays>
-  <RWAutoSell.ProcessLast>Zuletzt bearbeiten</RWAutoSell.ProcessLast>fyOver>
+  <RWAutoSell.ProcessLast>Zuletzt bearbeiten</RWAutoSell.ProcessLast>
+  <RWAEquip.ApplyToPods>Auf Schoten auftragen</RWAEquip.ApplyToPods>
   <!-- Root Names -->
   <RWAutoSell.Caravan>Wohnwagen</RWAutoSell.Caravan>
   <RWAutoSell.App2Per>Anwenden auf Personal</RWAutoSell.App2Per>
@@ -14,7 +15,6 @@
   <RWAutoSell.TabCaravanEquip>Wohnwagen</RWAutoSell.TabCaravanEquip>
   <!-- Caravan Transfer -->
   <RWAutoSell.CaravanEquipReportTitle>Ausrüstungsbericht</RWAutoSell.CaravanEquipReportTitle>
-
 
   <RWAutoSell.AEComformFreeForm>Freiform</RWAutoSell.AEComformFreeForm>
   <RWAutoSell.AEComformGlobal>Legen Sie Globale Elemente/Personal festlegen fest</RWAutoSell.AEComformGlobal>
@@ -51,6 +51,10 @@
 
   <RWAEquip.TopNest>Ketten: Von oben aktivieren</RWAEquip.TopNest>
   <RWAEquip.FirstChain>Ketten: Aktiviere alle von Anfang an</RWAEquip.FirstChain>
+
+  <RWAEquip.ActivateAll>Alle aktivieren</RWAEquip.ActivateAll>
+  <RWAEquip.SuspendAll>Alle anhalten</RWAEquip.SuspendAll>
+  <RWAEquip.NoChange>Verwenden aktuellen</RWAEquip.NoChange>
 
   <!-- Wizard -->
   <RWAEquip.WizCaravanComp>Fügen Sie der Caravan-Komposition hinzu</RWAEquip.WizCaravanComp>

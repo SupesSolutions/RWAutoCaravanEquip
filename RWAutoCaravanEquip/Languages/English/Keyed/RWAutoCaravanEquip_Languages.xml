@@ -7,6 +7,7 @@
   <RWAutoSell.Days>Days</RWAutoSell.Days>
   <RWAutoSell.RouteDays>Use Route Days</RWAutoSell.RouteDays>
   <RWAutoSell.ProcessLast>Process Last</RWAutoSell.ProcessLast>
+  <RWAEquip.ApplyToPods>Apply to Pods</RWAEquip.ApplyToPods>
   <!-- Root Names -->
   <RWAutoSell.Caravan>Caravan</RWAutoSell.Caravan>
   <RWAutoSell.App2Per>Apply to Personnel</RWAutoSell.App2Per>
@@ -53,6 +54,10 @@
 
   <RWAEquip.TopNest>Chains: Activate from top</RWAEquip.TopNest>
   <RWAEquip.FirstChain>Chains: Activate all from first</RWAEquip.FirstChain>
+
+  <RWAEquip.ActivateAll>Activate All</RWAEquip.ActivateAll>
+  <RWAEquip.SuspendAll>Suspend All</RWAEquip.SuspendAll>
+  <RWAEquip.NoChange>Use Current</RWAEquip.NoChange>
   
   <!-- Options -->
   <RWAEquip.MapOptions>Equip Options</RWAEquip.MapOptions>
