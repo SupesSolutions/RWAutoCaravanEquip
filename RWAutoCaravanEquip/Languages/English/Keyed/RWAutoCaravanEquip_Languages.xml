@@ -6,8 +6,8 @@
   <RWAutoSell.MaxWeight>Max Weight</RWAutoSell.MaxWeight>
   <RWAutoSell.Days>Days</RWAutoSell.Days>
   <RWAutoSell.RouteDays>Use Route Days</RWAutoSell.RouteDays>
-  <RWAutoSell.ProcessLast>Process Last</RWAutoSell.ProcessLast>
-  <RWAEquip.ApplyToPods>Apply to Pods</RWAEquip.ApplyToPods>
+  <RWAutoSell.ProcessLast>Process Last</RWAutoSell.ProcessLast> 
+  
   <!-- Root Names -->
   <RWAutoSell.Caravan>Caravan</RWAutoSell.Caravan>
   <RWAutoSell.App2Per>Apply to Personnel</RWAutoSell.App2Per>
@@ -60,9 +60,14 @@
   <RWAEquip.NoChange>Use Current</RWAEquip.NoChange>
   
   <!-- Options -->
-  <RWAEquip.MapOptions>Equip Options</RWAEquip.MapOptions>
+  <RWAEquip.MapOptions>Equip Options</RWAEquip.MapOptions>  
   <RWAEquip.DoubleRouteDays>Double Route Days</RWAEquip.DoubleRouteDays>
   <RWAEquip.ShowOnForm>Select Preset on Form Caravan</RWAEquip.ShowOnForm>
+  <RWAEquip.ApplyToPods>Apply to Pods</RWAEquip.ApplyToPods>
+  <RWAEquip.ApplyToSplit>Apply to Split</RWAEquip.ApplyToSplit>
+  <RWAEquip.ApplyToReform>Zero out and apply to Reform</RWAEquip.ApplyToReform>
+  <RWAEquip.AEMapBehaviours>Equip Behaviours</RWAEquip.AEMapBehaviours>
+  <RWAEquip.AEShoppingListBehaviours>Shopping List Behaviours</RWAEquip.AEShoppingListBehaviours>
   
   <!-- Wizard -->
   <RWAEquip.WizCaravanComp>Append to the Caravan Composition</RWAEquip.WizCaravanComp>

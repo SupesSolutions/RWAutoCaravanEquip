@@ -6,11 +6,13 @@
   <RWAutoSell.MaxWeight>Maximalgewicht</RWAutoSell.MaxWeight>
   <RWAutoSell.Days>Tage</RWAutoSell.Days>
   <RWAutoSell.RouteDays>Verwenden Sie Route Tage</RWAutoSell.RouteDays>
-  <RWAutoSell.ProcessLast>Zuletzt bearbeiten</RWAutoSell.ProcessLast>
-  <RWAEquip.ApplyToPods>Auf Schoten auftragen</RWAEquip.ApplyToPods>
+  <RWAutoSell.ProcessLast>Zuletzt bearbeiten</RWAutoSell.ProcessLast>  
   <!-- Root Names -->
   <RWAutoSell.Caravan>Wohnwagen</RWAutoSell.Caravan>
   <RWAutoSell.App2Per>Anwenden auf Personal</RWAutoSell.App2Per>
+
+  <RWAutoSell.CaravanNodeDesc>Filtern Sie, welche Artikel auf diesem Wohnwagen sein werden</RWAutoSell.CaravanNodeDesc>
+  <RWAutoSell.App2PerNodeDesc>Filtern Sie, für welche Kolonisten oder Tiere diese Regel gilt, und multiplizieren Sie die Modifikatoren mit denen, die zurückgegeben werden</RWAutoSell.App2PerNodeDesc>
   <!-- Main Tab -->
   <RWAutoSell.TabCaravanEquip>Wohnwagen</RWAutoSell.TabCaravanEquip>
   <!-- Caravan Transfer -->
@@ -42,7 +44,7 @@
   <RWAEquip.Presets>Voreinstellungen</RWAEquip.Presets>
   <RWAEquip.Active>Aktiv</RWAEquip.Active>
   <RWAEquip.InActive>Inaktiv</RWAEquip.InActive>
-  <RWAEquip.ShowOnForm>Wählen Sie Preset auf Form Caravan</RWAEquip.ShowOnForm>
+  
   <RWAEquip.Select>Wählen</RWAEquip.Select>
   <RWAEquip.Prefix>Präfix</RWAEquip.Prefix>
   <RWAEquip.Contains>Enthält</RWAEquip.Contains>
@@ -55,6 +57,17 @@
   <RWAEquip.ActivateAll>Alle aktivieren</RWAEquip.ActivateAll>
   <RWAEquip.SuspendAll>Alle anhalten</RWAEquip.SuspendAll>
   <RWAEquip.NoChange>Verwenden aktuellen</RWAEquip.NoChange>
+
+
+  <!-- Options -->
+  <RWAEquip.MapOptions>Ausrüstungsoptionen</RWAEquip.MapOptions>
+  <RWAEquip.DoubleRouteDays>Doppelte Streckentage</RWAEquip.DoubleRouteDays>
+  <RWAEquip.ShowOnForm>Wählen Sie Preset auf Form Caravan</RWAEquip.ShowOnForm>
+  <RWAEquip.ApplyToPods>Auf Schoten auftragen</RWAEquip.ApplyToPods>  
+  <RWAEquip.ApplyToSplit>auf split anwenden</RWAEquip.ApplyToSplit>
+  <RWAEquip.ApplyToReform>Null aus und bewerben Sie sich bei Reform</RWAEquip.ApplyToReform>
+  <RWAEquip.AEMapBehaviours>Verhaltensweisen ausrüsten</RWAEquip.AEMapBehaviours>
+  <RWAEquip.AEShoppingListBehaviours>Einkaufsliste Verhalten</RWAEquip.AEShoppingListBehaviours>  
 
   <!-- Wizard -->
   <RWAEquip.WizCaravanComp>Fügen Sie der Caravan-Komposition hinzu</RWAEquip.WizCaravanComp>
